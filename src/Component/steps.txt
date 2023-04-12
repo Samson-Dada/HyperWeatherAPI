@@ -1,0 +1,26 @@
+REACT WEATHER APP
+Build a simple weather app that makes API calls to a weather service to display the current
+weather for a given location
+Here are the sample steps you can follow to build this app:
+● Create a new React project using create-react-app.
+
+● Create a function component for the app and import the useState and useEffect
+hooks.
+
+● Use the useState hook to create state variables for the city and the weather data.
+
+● Create an input field for the user to enter a city and update the city state variable
+using the onChange event.
+
+● Use the useEffect hook to make an API call to a weather service when the city state
+variable changes.
+
+● Parse the data from the API response and update the weather data state variable.
+
+● Display the current temperature, weather description, and any other relevant
+information on the screen.
+Feel free to use any approach… you don’t have to follow the steps i listed out above, because
+there are many ways to achieve a particular thing but you’ll definitely find them useful
+
+Here are a few free weather APIs that you can use in your React project:
+● OpenWeatherMap API
